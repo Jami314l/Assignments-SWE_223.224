@@ -20,8 +20,4 @@ public class Rectangle {
         this.color=SampleRectangle.color;
         System.out.println("Lenght= "+this.length+", Width= "+this.width+", Color= "+this.color);
     }
-    
-//    int area(){
-//        return length*width;
-//    }
 }
